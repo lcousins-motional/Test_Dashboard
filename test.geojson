@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Street Name": "W Pico Blvd", "NHTSA Status": "", "UberEats Status": "", "Mapping Status": "Basemapped" 
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -28,7 +30,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Street Name": "Abbot Kinney Blvd", "NHTSA Status": "Approved", "UberEats Status": "Approved", "Mapping Status": "Ready for Auto Drive"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -57,7 +61,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Street Name": "W Pico Blvd", "NHTSA Status": "Requested", "UberEats Status": "", "Mapping Status": "Ready for Auto Drive"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -86,7 +92,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"Street Name": "Road", "NHTSA Status": "Approved", "UberEats Status": "Approved", "Mapping Status": "Basemapped"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
